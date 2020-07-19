@@ -1,1 +1,1 @@
-# data-analytics-machine-learning-poc
+# big-data-analytics-machine-learning-poc
